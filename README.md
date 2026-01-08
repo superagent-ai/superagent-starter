@@ -16,10 +16,7 @@ A simple and clean Express.js starter template with essential middleware and bes
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd awesome-express-starter
-
-# Run verify script
-npm run verify
+cd superagent-starter
 
 # Install dependencies
 npm install
