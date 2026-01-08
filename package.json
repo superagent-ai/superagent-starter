@@ -4,9 +4,8 @@
   "description": "A simple and clean Express.js starter template",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "verify": "./scripts/verify-env.sh"
+    "start": "node src/index.js && ./scripts/verify.sh",
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "express",
